@@ -37,5 +37,5 @@ jobs:
 
     - name: Build and Push Docker Image
       run: |
-        docker build -t fakhriazzr/deployaja-web:latest .
-        docker push fakhriazzr/deployaja-web:latest
+        docker build -t fakhriazzr/deployaja1:latest .
+        docker push fakhriazzr/deployaja1:latest
